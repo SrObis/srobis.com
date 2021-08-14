@@ -7,7 +7,7 @@ export default function Topbar({ menuOpen, setMenuOpen }){
             <div className="wrapper">
 
                 <div className="left">
-                    <a href="#intro" className="logo">Jorsdi Obis Farre</a>
+                    <a href="#intro" className="logo">Jordi Obis Farre</a>
                     <div className="itemContainer">
                         <Mail clasName="icon" />
                         <span>jordi@srobis.com</span>
